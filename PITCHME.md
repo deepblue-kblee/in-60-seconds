@@ -1,8 +1,8 @@
-# Let's Get Started
+# Let's Get Started 시작해보기
 
 ---
 
-## Add Some Slide Candy
+## Add Some Slide Candy (가나다)
 
 ![](assets/img/presentation.png)
 
